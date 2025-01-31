@@ -10,6 +10,7 @@ Your privacy is important to us. This Privacy Policy explains how we collect, us
 ---
 
 **2. Data We Collect**
+
 EchoSoil collects only the data necessary for scientific research and app functionality. This includes:
 - **User-Provided Data:** Optional account details (if applicable), such as email for login (if required).
 - **Scientific Contributions:** Soil sample data, location of samples, environmental conditions, etc.
@@ -21,6 +22,7 @@ We do **not** collect any personally identifiable information beyond what is exp
 ---
 
 **3. How We Use Your Data**
+
 The collected data is used solely for:
 - Environmental research and analysis.
 - Improving app functionality and user experience.
@@ -32,6 +34,7 @@ compliance with Member State laws.
 ---
 
 **4. Data Sharing and Storage**
+
 - Your data will only be used for research purposes and will **not** be sold or shared for commercial use.
 - Data may be shared with academic and environmental research institutions in anonymized form.
 - Data is stored securely on EU-based servers.
@@ -39,6 +42,7 @@ compliance with Member State laws.
 ---
 
 **5. User Rights**
+
 As a user, you have the right to:
 - Request access to the data you have submitted.
 - Request correction or deletion of your personal data (if applicable).
@@ -49,16 +53,19 @@ To make a request, contact us at echo@quanta-labs.com.
 ---
 
 **6. Cookies & Third-Party Services**
+
 EchoSoil does not use cookies or third-party tracking services. Any analytics collected are for research purposes only.
 
 ---
 
 **7. Changes to this Privacy Policy**
+
 We may update this policy to reflect changes in research needs or legal requirements. Any updates will be posted within the app and on our website.
 
 ---
 
 **8. Contact Us**
+
 If you have any questions about this Privacy Policy, you can contact us at:
 echo@quanta-labs.com  
 or visit us at https://echosoil.eu
