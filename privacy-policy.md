@@ -62,6 +62,7 @@ We may update this policy to reflect changes in research needs or legal requirem
 If you have any questions about this Privacy Policy, you can contact us at:
 echo@quanta-labs.com  
 or visit us at https://echosoil.eu
+
 ---
 
 By using the EchoSoil Citizen Science App, you agree to this Privacy Policy.
