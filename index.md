@@ -2,7 +2,10 @@
 
 **Effective Date:** 2025-01-30
 
+_Last updated: 2025-04-14_
+
 **1. Introduction**
+
 Welcome to the EchoSoil Citizen Science App ("EchoSoil", "ECHO," "we," "our," or "us"). ECHO is a Research and Innovation Action co-funded by the European Union under the Horizon Europe programme, and UK Research and Innovation (UKRI).
 The project aims to engage citizens in protecting and restoring soils by building their skills and enhancing their knowledge on soils. Citizens will actively contribute to the project’s data collection, promote soil stewardship, and foster behavioural change across the EU.
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your data while using the ECHO app.
@@ -73,7 +76,7 @@ We may update this policy to reflect changes in research needs or legal requirem
 **9. Contact Us**
 
 If you have any questions about this Privacy Policy, you can contact us at:
-echo@quanta-labs.com  
+echo@quanta-labs.com 
 or visit us at https://echosoil.eu
 
 ---
