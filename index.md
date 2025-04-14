@@ -52,19 +52,25 @@ To make a request, contact us at echo@quanta-labs.com.
 
 ---
 
-**6. Cookies & Third-Party Services**
+**6. Child Protection**
+
+We do not permit any content or behavior that exploits or endangers minors. This includes, but is not limited to, sexual content involving minors, grooming behavior, or any interaction that could be harmful. We take reports seriously and will take immediate action, including removal of content and notification to the appropriate authorities when applicable.
+
+---
+
+**7. Cookies & Third-Party Services**
 
 EchoSoil does not use cookies or third-party tracking services. Any analytics collected are for research purposes only.
 
 ---
 
-**7. Changes to this Privacy Policy**
+**8. Changes to this Privacy Policy**
 
 We may update this policy to reflect changes in research needs or legal requirements. Any updates will be posted within the app and on our website.
 
 ---
 
-**8. Contact Us**
+**9. Contact Us**
 
 If you have any questions about this Privacy Policy, you can contact us at:
 echo@quanta-labs.com  
